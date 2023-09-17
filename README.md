@@ -4,5 +4,5 @@ Este é o segundo projeto de CSS da Dio.me, o objetivo era replicar a página do
 Abaixo tem imagem de como ficou o projeto final!
 
 <p align="center">
-  <img src="assets/images" width="460"> 
+  <img src="assets/images/Opera Instantâneo_2023-09-17_183216_127.0.0.1.png" width="460"> 
 </p>
