@@ -196,20 +196,24 @@
 }
 
 .recommended-video {
-    width: 160px;
-    height: 90px;
+    width: 390px;
+    min-height: 100px;
+    height: auto;
     display: inline-flex;
     gap: 16px;
+    padding: 5px;
 }
 
 .recommended-description {
     width: 196px;
-    height: 89px;
+    min-height: 99px;
+    height: auto;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     box-sizing: border-box;
     gap: 8px;
+    
 }
 
 #tittle-list {
